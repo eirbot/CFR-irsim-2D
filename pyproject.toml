@@ -1,0 +1,9 @@
+[project]
+name = "cfr-irsim-2d"
+version = "0.1.0"
+description = "IR-Simulator for the CFR"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ir-sim>=2.7.4",
+]
