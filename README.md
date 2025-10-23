@@ -8,7 +8,7 @@ Requirements:
 - `Python` >= 3.13
 
 ```sh
-uv install
+uv run
 ```
 
 ## Run
